@@ -1,1 +1,1 @@
-"# tekton-configs" 
+# tekton-configs
